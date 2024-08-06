@@ -3,7 +3,7 @@ body{
 }
 
 nav{
-    background-image: url('./logo2.jpg');
+    background-image:linear-gradient(rgba(82, 82, 86,0.3),rgba(82,82,86,0.5)) ,url('./logo2.jpg');
     background-position-x: center;
     background-position: 50%;
     display: flex;
