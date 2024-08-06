@@ -20,12 +20,13 @@ nav{
 }
 
 .navLinks{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     justify-content: space-between;
     width: 50%;
     align-items: center;
     cursor: pointer;
-    color: rgb(240, 248, 255);
-    
-}
+    color: rgb(255, 255, 255);
+    list-style-type: none;
+    }
     
