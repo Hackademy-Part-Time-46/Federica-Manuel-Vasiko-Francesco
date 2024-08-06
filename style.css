@@ -11,11 +11,18 @@ nav{
     border-bottom: 2px solid rgb(128, 0, 0);
     
 }
+.nome{
+    width: 100px;
+    height: 70px;
+    margin: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
 
 .imgLogo{
     width: 70px;
     height: 70px;
-    border-radius: 50%;
+    border-radius: 60%;
     margin: 10px;
 }
 
@@ -30,3 +37,77 @@ nav{
     list-style-type: none;
     }
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    footer{
+        background-color: rgb(241, 190, 124);
+        margin:0px;
+        border-bottom: 3px solid rgb(0, 0, 0);
+        height: 30vh;
+        align-items: ;
+    }
+
+    .logofooter{
+        width: 100px;
+        
+
+
+    }
