@@ -3,13 +3,12 @@ body{
 }
 
 nav{
-    background-color: rgb(82, 82, 86);
     background-image: url('./logo2.jpg');
     background-position-x: center;
     background-position: 50%;
     display: flex;
     justify-content: space-between;
-    border-bottom: 5px solid green;
+    border-bottom: 2px solid rgb(128, 0, 0);
     
 }
 
